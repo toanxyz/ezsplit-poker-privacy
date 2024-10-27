@@ -1,9 +1,9 @@
 ---
-title: EzSplit Poker Support
-description: Support page for EzSplit Poker users
+title: ezPoker Settle Support
+description: Support page for ezPoker Settle users
 ---
 
-# Welcome to EzSplit Poker Support
+# Welcome to ezPoker Settle Support
 
 If you need assistance, feel free to reach out via our [GitHub Issues page](https://github.com/toanxyz/ezsplit-poker-privacy/issues) or email us at [support@ezsplitpoker.com](mailto:support@ezsplitpoker.com).
 
